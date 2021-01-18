@@ -1,0 +1,13 @@
+{
+  "My Favourite Workouts": [
+    {
+      "name": "Chest",
+      "category": "CHEST"
+    },
+    {
+      "name": "Arms",
+      "category": "ARMS"
+    }
+  ],
+  "name": "My Favourite Workouts"
+}
